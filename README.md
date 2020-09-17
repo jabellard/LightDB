@@ -1,0 +1,2 @@
+# LightDB
+Key value store.
